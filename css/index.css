@@ -1,0 +1,24 @@
+.film-description{
+    display:flex;
+    justify-content:center;
+    margin: 2% 10%;
+       
+    
+}
+
+h2 , h5{
+    text-align: center; 
+    margin: 2% 0%;
+}
+
+.jumbotron-fluid{
+margin: 5% 0%; 
+width: 100%;
+background: black;
+}
+
+.film-description .text{
+    padding: 0% 10%; 
+}
+
+
